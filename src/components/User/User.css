@@ -1,0 +1,30 @@
+.User {
+	background-color: #ffffff;
+	border: solid black 1px;
+	border-radius: 10px;
+	height: 100px;
+	padding: 20px;
+	margin-bottom: 20px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.User__name {
+	font-weight: 700;
+	font-size: 24px;
+	margin-bottom: 10px;
+}
+
+.User__email {
+	font-size: 16px;
+}
+
+.User__email__wrapper {
+	margin-bottom: 10px;
+}
+
+.User__phone {
+	font-size: 16px;
+	font-style: italic;
+}

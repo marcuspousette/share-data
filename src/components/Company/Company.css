@@ -1,0 +1,12 @@
+.Company {
+	width: 150px;
+}
+
+.Company__name {
+	font-size: 16px;
+	font-weight: 700;
+}
+
+.Company__catch-phrase {
+	font-size: 16px;
+}
