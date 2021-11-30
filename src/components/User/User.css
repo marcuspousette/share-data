@@ -8,6 +8,14 @@
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
+	transition: all 0.3s;
+	cursor: pointer;
+}
+
+.User--slected {
+	background-color: #d8eaf9;
+	border: solid #6bcf42 1px;
+	box-shadow: 0px 8px 10px rgb(0, 0, 0, 10%);
 }
 
 .User__name {

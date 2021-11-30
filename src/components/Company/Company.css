@@ -1,5 +1,10 @@
 .Company {
 	width: 150px;
+	transition: all 0.3s;
+}
+
+.Company--selected {
+	color: purple;
 }
 
 .Company__name {
